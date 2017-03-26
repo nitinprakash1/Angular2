@@ -1,4 +1,4 @@
-# Angular2 - Product inventory list screen
+# Angular2 - Product Inventory List screen
 
 This project is an Angular 2 based Inventory List screen I made for an e-commerce website I have in works for the future. 
 
